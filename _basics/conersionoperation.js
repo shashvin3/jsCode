@@ -39,4 +39,15 @@ console.log(stringDigit)
 console.log(typeof stringDigit)
 
 
+//************************************Operations**********************************
+
+let num = 3;
+let negNum = -num
+console.log(negNum);
+
+/* comparison(<><=>=) and equality(==) are different things in  js*/
+
+// === strict check which not only check value but also datatype
+
+
 
