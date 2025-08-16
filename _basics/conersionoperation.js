@@ -1,4 +1,4 @@
-score = "56"
+score = "56abc"
 
 console.log(typeof score); //string
 
